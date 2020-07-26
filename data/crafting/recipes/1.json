@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": "minecraft:netherite_ingot",
+    "experience": 1.000000000000001e+21,
+    "cookingtime": 1
+}

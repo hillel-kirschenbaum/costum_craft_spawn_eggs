@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+ 
+   "result": {
+        "item": "minecraft:witch_spawn_egg",
+        "count": 1
+    }
+}
